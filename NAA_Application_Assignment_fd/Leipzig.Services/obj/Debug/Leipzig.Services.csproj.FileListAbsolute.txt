@@ -1,0 +1,28 @@
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\Leipzig.Services\bin\Debug\Leipzig.Services.dll.config
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\Leipzig.Services\bin\Debug\Leipzig.Services.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\Leipzig.Services\bin\Debug\Leipzig.Services.pdb
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\Leipzig.Services\obj\Debug\Leipzig.Services.csprojResolveAssemblyReference.cache
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\Leipzig.Services\obj\Debug\Leipzig.Services.csproj.CoreCompileInputs.cache
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\Leipzig.Services\obj\Debug\Leipzig.Services.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\Leipzig.Services\obj\Debug\Leipzig.Services.pdb
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\Leipzig.Services\bin\Debug\Leipzig.Services.dll.config
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\Leipzig.Services\bin\Debug\Leipzig.Services.dll
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\Leipzig.Services\bin\Debug\Leipzig.Services.pdb
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\Leipzig.Services\obj\Debug\Leipzig.Services.csprojResolveAssemblyReference.cache
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\Leipzig.Services\obj\Debug\Leipzig.Services.csproj.CoreCompileInputs.cache
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\Leipzig.Services\obj\Debug\Leipzig.Services.dll
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\Leipzig.Services\obj\Debug\Leipzig.Services.pdb
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\bin\Debug\Leipzig.Services.dll.config
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\bin\Debug\Leipzig.Services.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\bin\Debug\Leipzig.Services.pdb
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\obj\Debug\Leipzig.Services.csprojResolveAssemblyReference.cache
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\obj\Debug\Leipzig.Services.csproj.CoreCompileInputs.cache
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\obj\Debug\Leipzig.Services.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\obj\Debug\Leipzig.Services.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\bin\Debug\Leipzig.Services.dll.config
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\bin\Debug\Leipzig.Services.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\bin\Debug\Leipzig.Services.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\obj\Debug\Leipzig.Services.csprojResolveAssemblyReference.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\obj\Debug\Leipzig.Services.csproj.CoreCompileInputs.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\obj\Debug\Leipzig.Services.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\Leipzig.Services\obj\Debug\Leipzig.Services.pdb

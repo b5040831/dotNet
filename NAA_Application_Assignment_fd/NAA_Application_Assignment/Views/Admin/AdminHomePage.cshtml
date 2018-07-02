@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "AdminHomePage";
+}
+
+<h2>Admin Home Page</h2>
+
+@Html.ActionLink("Get Roles", "GetRoles", new { Controller = "Admin" }) |
+@Html.ActionLink("Get Roles For User", "GetRolesforUser", new { Controller = "Admin" }) |
+@Html.ActionLink("Create Role", "CreateRole", new { Controller = "Admin" }) |
+@Html.ActionLink("Manage User Roles", "ManageUserRoles", new { Controller = "Admin" }) |
+

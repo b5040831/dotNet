@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Leipzig.Services.SHUServiceReference.SHUCourse>
+
+@{
+    ViewBag.Title = "GetSHUCourses";
+}
+
+<h2>GetSHUCourses</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CRequirements)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CDegree)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CTarif)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CNSS)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CourseId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CRequirements)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CDegree)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CTarif)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CNSS)
+        </td>
+        <td>
+            @Html.ActionLink("Apply", "CreateCourseApplication", new { CourseName = item.CName, UniversityID = ViewBag.UniversityID, ApplicantID = ViewBag.ApplicantID, Controller = "Application" })
+        </td>
+    </tr>
+}
+
+</table>

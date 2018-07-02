@@ -1,0 +1,65 @@
+﻿@model IEnumerable<NAA.Data.BEANS.ApplicationBEAN>
+
+@{
+    ViewBag.Title = "GetStudentApplications";
+}
+
+<h2>Your Applications</h2>
+
+<p>
+    @Html.ActionLink("Back to Profile", "ShowUserProfileOnApplicantID", new { ApplicantID = ViewBag.ApplicantID, Controller = "Applicant" })
+</p>
+
+<table class="table">
+    <tr>
+        @*<th>
+            @Html.DisplayNameFor(model => model.ApplicantID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApplicationID)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.UniversityName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CourseName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UniversityOffer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Firm)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.ApplicantID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApplicationID)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.UniversityName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CourseName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UniversityOffer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Firm)
+        </td>
+        <td>
+            @Html.ActionLink("Go Firm", "EditUserFirmDecision", new { ApplicationID = item.ApplicationID, ApplicantID = item.ApplicantID, Controller = "Application" }) |
+            @Html.ActionLink("Edit", "EditApplication", new { ApplicationID = item.ApplicationID, Controller = "Application" }) |
+            @Html.ActionLink("Details", "GetStudentApplication", new { ApplicationID = item.ApplicationID, Controller = "Application"}) |
+            @Html.ActionLink("Delete", "DeleteApplication", new { ApplicationID = item.ApplicationID, ApplicantID = item.ApplicantID, Controller = "Application"})
+        </td>
+    </tr>
+}
+
+</table>

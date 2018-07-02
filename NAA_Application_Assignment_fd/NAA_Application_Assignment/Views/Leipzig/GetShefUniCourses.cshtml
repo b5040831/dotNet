@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Leipzig.Services.ShefUniServiceReference.Course>
+
+@{
+    ViewBag.Title = "GetShefUniCourses";
+}
+
+<h2>GetShefUniCourses</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EntryReq)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tarif)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.University)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NSS)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Qulaification)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EntryReq)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tarif)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.University)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NSS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Qulaification)
+        </td>
+        <td>
+            @Html.ActionLink("Apply", "CreateCourseApplication", new { CourseName=item.Name, UniversityID = ViewBag.UniversityID, ApplicantID = ViewBag.ApplicantID, Controller ="Application" })
+        </td>
+    </tr>
+}
+
+</table>

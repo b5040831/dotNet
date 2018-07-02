@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Leipzig.Services.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Leipzig_Services_SHUServiceReference_SHUWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://webteach_net.hallam.shu.ac.uk/cmsmr2/SHUWebService.asmx</Value>
+    </Setting>
+    <Setting Name="Leipzig_Services_ShefUniServiceReference_SheffieldWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://webteach_net.hallam.shu.ac.uk/cmsmr2/SheffieldWebService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

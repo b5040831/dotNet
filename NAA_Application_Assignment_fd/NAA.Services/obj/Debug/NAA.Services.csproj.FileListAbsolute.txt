@@ -1,0 +1,55 @@
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Services.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Services.pdb
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\EntityFramework.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.pdb
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.dll.config
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\EntityFramework.xml
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.csprojResolveAssemblyReference.cache
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.csproj.CoreCompileInputs.cache
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Services.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Services.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\EntityFramework.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.dll.config
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\bin\Debug\EntityFramework.xml
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.csprojResolveAssemblyReference.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.csproj.CoreCompileInputs.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.pdb
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Services.dll
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Services.pdb
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.dll
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\bin\Debug\EntityFramework.dll
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.pdb
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\bin\Debug\NAA.Data.dll.config
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\bin\Debug\EntityFramework.xml
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.csprojResolveAssemblyReference.cache
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.csproj.CoreCompileInputs.cache
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.dll
+C:\Users\cmsds\Desktop\NAA_Application_Assignment\NAA.Services\obj\Debug\NAA.Services.pdb
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Services.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Services.pdb
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Data.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\EntityFramework.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Data.pdb
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Data.dll.config
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\EntityFramework.xml
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\obj\Debug\NAA.Services.csprojResolveAssemblyReference.cache
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\obj\Debug\NAA.Services.csproj.CoreCompileInputs.cache
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\obj\Debug\NAA.Services.dll
+F:\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\obj\Debug\NAA.Services.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Services.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Services.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Data.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\EntityFramework.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Data.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\NAA.Data.dll.config
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\bin\Debug\EntityFramework.xml
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\obj\Debug\NAA.Services.csprojResolveAssemblyReference.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\obj\Debug\NAA.Services.csproj.CoreCompileInputs.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\obj\Debug\NAA.Services.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME8\1\b5040831\MyWork\Visual Studio 2017\NAA_Application_Assignment_fd\NAA.Services\obj\Debug\NAA.Services.pdb

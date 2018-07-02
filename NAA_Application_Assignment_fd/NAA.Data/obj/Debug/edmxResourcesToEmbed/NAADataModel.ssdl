@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NAAModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="NAA_Application">
+    <Key>
+      <PropertyRef Name="ApplicationID" />
+    </Key>
+    <Property Name="ApplicationID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ApplicantID" Type="int" Nullable="false" />
+    <Property Name="CourseName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UniversityID" Type="int" Nullable="false" />
+    <Property Name="PersonalStatement" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TeacherReference" Type="nvarchar(max)" />
+    <Property Name="TeacherContactDetails" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UniversityOffer" Type="nvarchar" MaxLength="10" />
+    <Property Name="Firm" Type="bit" />
+  </EntityType>
+  <EntityType Name="NAA_University">
+    <Key>
+      <PropertyRef Name="UniversityID" />
+    </Key>
+    <Property Name="UniversityID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UniversityName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="NAA_User_Profile">
+    <Key>
+      <PropertyRef Name="ApplicantID" />
+    </Key>
+    <Property Name="ApplicantID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ApplicantName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ApplicantAddress" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserID" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityContainer Name="NAAModelStoreContainer">
+    <EntitySet Name="NAA_Application" EntityType="Self.NAA_Application" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NAA_University" EntityType="Self.NAA_University" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NAA_User_Profile" EntityType="Self.NAA_User_Profile" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

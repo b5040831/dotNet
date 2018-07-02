@@ -1,0 +1,52 @@
+﻿@model NAA.Data.NAA_User_Profile
+
+@{
+    ViewBag.Title = "ShowUserProfile";
+}
+
+<h2>Your Profile</h2>
+
+<div>
+    <h4>@Html.DisplayFor(model => model.ApplicantName)</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ApplicantAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ApplicantAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.UserID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserID)
+        </dd>*@
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit your Profile", "EditUserProfile", new { ApplicantID = Model.ApplicantID, Controller = "Admin" }) |
+    @Html.ActionLink("Apply for a course", "GetUniversityList", new { ApplicantID = Model.ApplicantID, Controller = "Application" }) |
+    @Html.ActionLink("View your applications", "GetStudentApplications", new { ApplicantID = Model.ApplicantID, Controller = "Application" }) |
+</p>
